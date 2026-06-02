@@ -1,0 +1,84 @@
+ANDREW ALEXAITIS
+Seattle, WA | Remote-first | 682-777-8972 | alexaitisis@gmail.com | LinkedIn: https://www.linkedin.com/in/Alexaitis | GitHub: https://github.com/aa141793
+
+TARGET
+Remote AI Operations | Implementation Specialist | Technical Support Specialist | Customer Success Engineering | Workflow Automation
+
+PROFESSIONAL SUMMARY
+Technical operations and AI-assisted workflow builder with experience across military operations, turbine analysis, safety-critical instruction, customer-facing training, macOS automation, front-end product work, and local tooling. Strong fit for remote roles that need someone who can learn fast, troubleshoot calmly, document clearly, use AI tools responsibly, and turn messy repeated work into usable systems. Builds with Codex, Python, shell, Swift, HTML/CSS/JavaScript, and practical documentation habits, while keeping claims grounded in tested local projects and real operating experience.
+
+CORE SKILLS
+AI-Assisted Workflows: Codex, ChatGPT, prompt-to-tool workflows, AI-assisted research, workflow mapping, human review, output QA
+Automation and Tooling: Python, shell scripting, macOS automation, launchd, AppleScript, Swift utilities, local CLI tools, dry-run patterns, logging
+Technical Support: troubleshooting, root-cause thinking, user training, escalation notes, customer-facing explanations, remote collaboration
+Implementation and Operations: onboarding, readiness tracking, workflow documentation, process improvement, launch support, cross-functional coordination
+Web and Product: HTML, CSS, JavaScript, responsive front-end builds, content structure, UX judgment, owner-editable static sites
+Analysis and Communication: Excel, MATLAB, LabVIEW, SOLIDWORKS, technical documentation, technical presentations, training materials
+
+SELECTED PROJECTS
+Andy Command Center - Local macOS Operations Platform
+- Built a native macOS command center concept for repeatable Mac, music, web, and career workflows, turning scattered scripts into a searchable, auditable operations surface.
+- Designed around practical support patterns: categories, run history, exportable logs, safety indicators, confirmations for mutating actions, and clear documentation.
+- Shows direct fit for AI operations and implementation roles: workflow mapping, internal tooling, local automation, and user-focused process design.
+
+DJ Automation CLI - Real Library Workflow Automation
+- Built a reusable command-line toolkit for DJ library intake, metadata enrichment, duplicate handling, playlist packaging, Rekordbox backups, SoundCloud watch reports, and weekly status snapshots.
+- Used dry-run behavior, report outputs, launchd scheduling, and careful file-safety patterns to make repeated library operations safer and easier to maintain.
+- Demonstrates practical automation judgment with real files, real edge cases, and a workflow that can be run again after the initial build.
+
+Ableton Live Control Plugin - Local Codex Plugin Scaffold
+- Created a local Codex plugin scaffold and dependency-free MCP server for Ableton Live control, including app detection, launch support, keyboard commands, menu actions, project opening, and OSC message support.
+- Added local smoke checks, a manual MCP handshake test, and clear notes on Accessibility and OSC requirements.
+- Demonstrates ability to extend AI assistant workflows into real desktop applications while documenting operational constraints honestly.
+
+Browser History Filter - Technical Support Automation
+- Built a macOS automation tool for filtering browser history entries based on configurable rules, with install scripts, dry-run support, permission notes, and launchd scheduling.
+- Accounted for differences between Safari and Chrome storage instead of assuming one workflow fits every browser.
+- Shows practical troubleshooting, privacy-aware documentation, and support-ready user instructions.
+
+Sea Axe Concept Redesign - Front-End Case Study
+- Built a polished research-led website concept for a local venue, focusing on clearer hierarchy, stronger first impression, responsive design, and owner-editable content.
+- Demonstrates front-end execution, UX judgment, content strategy, and the ability to turn scattered business signals into a more useful web experience.
+
+PROFESSIONAL EXPERIENCE
+U.S. Navy - Student Pool Officer / Staff Duty Officer
+Kingsville, TX | Jun 2020 - Aug 2021
+- Directed daily operations, duty schedules, logistics, maintenance availability, and accountability for a 35-person student detachment during strike training.
+- Managed onboarding and accountability for incoming students before class assignment and maintained continuity across high-tempo training operations.
+- Earned a Navy Letter of Commendation for operational performance during detachment support.
+
+U.S. Navy - Student Naval Aviator
+Pensacola, FL / Milton, FL | Jul 2018 - Jun 2020
+- Completed one of the Navy's most demanding technical training pipelines, finishing #1 of 27 in Aviation Preflight Indoctrination and in the top 5% of primary training.
+- Served as class leader for 25 students and reinforced training execution, peer accountability, and performance standards in a safety-critical environment.
+
+U.S. Navy - OHARP Recruiter Assistant
+Dallas, TX | Apr 2018 - Jul 2018
+- Supported recruiting operations by digitizing and submitting more than 550 applicant records and helping recruiters manage time-sensitive application workflows.
+
+Air Force Research Laboratory - Propulsion Directorate Intern
+Wright-Patterson AFB, OH | Aug 2016 - Nov 2017
+- Conducted turbine blade analysis and test work for the Rolls-Royce AE 3007 engine program within the Propulsion Directorate.
+- Synthesized findings and presented technical results to an engineering review board that included Pratt & Whitney stakeholders.
+- Supported analysis of low-speed, high-altitude operating conditions and strengthened technical reporting and engineering communication.
+
+iFLY Indoor Skydiving - Sales Manager and STEM Coordinator
+Fort Worth, TX | 2016 - 2017
+- Implemented a structured sales funnel that drove the site's best quarter in five years.
+- Developed and taught technical curriculum to groups of up to 60 participants, turning complex concepts into clear, engaging instruction.
+
+iFLY Indoor Skydiving - Indoor Skydiving Instructor
+Fort Worth, TX | Oct 2015 - May 2016
+- Managed safety, instruction, and customer experience for up to four 12-person classes per day in a high-risk environment.
+- Built a reputation for calm, precise coaching under pressure and advanced into higher-responsibility instructional work.
+
+EDUCATION
+University of Texas at Arlington - Bachelor of Science, University Studies (Aerospace)
+Arlington, TX | Dec 2017
+Selected coursework: 67 hours engineering, 24 hours math, 9 hours chemistry
+
+ADDITIONAL
+- Leadership: Director of Operations, Cadet Squadron 26; helped improve unit ranking from 30th to 5th of 40.
+- Events and coordination: Group Support Officer; coordinated large events and football tailgates for more than 1,000 cadets.
+- Service: Habitat for Humanity lead volunteer; organized more than 100 volunteer projects.
+- Awards and certifications: Navy Letter of Commendation; Outstanding Academic Achievement Award; International Bodyflight Association instructor certification; USAF Glider Instructor Wings; USAF Jump School; USPA skydiving license.
