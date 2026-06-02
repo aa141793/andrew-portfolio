@@ -2,6 +2,13 @@
 
 Recruiter-facing portfolio for Andrew Alexaitis, focused on AI-assisted workflow building, technical operations, implementation support, automation, and practical tooling.
 
+## Public URLs
+
+- GitHub Pages: `https://aa141793.github.io/andrew-portfolio/`
+- Custom domain: `https://alexaitis.art/`
+
+The custom domain uses the root-level `CNAME` file. DNS for `alexaitis.art` must point to GitHub Pages before the custom domain resolves to this portfolio.
+
 ## Local Preview
 
 ```sh
