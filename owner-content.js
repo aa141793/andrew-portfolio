@@ -13,8 +13,8 @@ export const ownerEditableContent = {
     contact: {
       emailLabel: "alexaitisis@gmail.com",
       emailHref: "mailto:alexaitisis@gmail.com?subject=Portfolio%20Inquiry",
-      phoneLabel: "682-777-8972",
-      phoneHref: "tel:+16827778972",
+      phoneLabel: "206-606-3831",
+      phoneHref: "tel:+12066063831",
       bookingLabel: "Contact Me",
       bookingHref: "mailto:alexaitisis@gmail.com?subject=Portfolio%20Inquiry",
       secondaryLabel: "Download Resume",
@@ -541,8 +541,8 @@ export const ownerEditableContent = {
       },
       {
         label: "Phone",
-        value: "682-777-8972",
-        href: "tel:+16827778972",
+        value: "206-606-3831",
+        href: "tel:+12066063831",
       },
       {
         label: "Location",
