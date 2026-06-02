@@ -5,13 +5,19 @@ Recruiter-facing portfolio for Andrew Alexaitis, focused on AI-assisted workflow
 ## Local Preview
 
 ```sh
-python3 -m http.server 4173
+python3 -m http.server 8080 --directory projects/web/andrew-portfolio
 ```
 
 Open:
 
 ```text
-http://127.0.0.1:4173/projects/web/andrew-portfolio/
+http://localhost:8080/
+```
+
+Or double-click:
+
+```text
+start-portfolio-preview.command
 ```
 
 ## Edit Content
