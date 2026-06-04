@@ -638,10 +638,9 @@ function initHeroMotion() {
     const rawProgress = clamp((window.innerHeight * 0.16 - rect.top) / travel);
     const progress = easeInOutCubic(rawProgress);
 
-    shell.style.setProperty("--copy-shift", `${lerp(0, -72 * motionScale, progress).toFixed(2)}px`);
-    shell.style.setProperty("--copy-scale", `${lerp(1, 0.95, progress).toFixed(4)}`);
-    shell.style.setProperty("--copy-opacity", `${lerp(1, 0.48, progress).toFixed(3)}`);
-    shell.style.setProperty("--copy-blur", `${lerp(0, 7 * motionScale, progress).toFixed(2)}px`);
+    shell.style.setProperty("--copy-shift", `${lerp(0, -40 * motionScale, progress).toFixed(2)}px`);
+    shell.style.setProperty("--copy-scale", `${lerp(1, 0.98, progress).toFixed(4)}`);
+    shell.style.setProperty("--copy-opacity", `${lerp(1, 0.88, progress).toFixed(3)}`);
 
     stage.style.setProperty("--stage-lift", `${lerp(0, -40 * motionScale, progress).toFixed(2)}px`);
     stage.style.setProperty("--stage-scale", `${lerp(1.01, 0.94, progress).toFixed(4)}`);

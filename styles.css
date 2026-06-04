@@ -309,7 +309,6 @@ figure {
   --copy-shift: 0px;
   --copy-scale: 1;
   --copy-opacity: 1;
-  --copy-blur: 0px;
   position: relative;
   min-height: 154svh;
 }
@@ -360,8 +359,8 @@ h1 {
   transform: translate3d(0, var(--copy-shift), 0) scale(var(--copy-scale));
   transform-origin: top left;
   opacity: var(--copy-opacity);
-  filter: blur(var(--copy-blur));
-  transition: transform 220ms ease-out, opacity 220ms ease-out, filter 220ms ease-out;
+  filter: none;
+  transition: transform 220ms ease-out, opacity 220ms ease-out;
 }
 
 .hero-body,
